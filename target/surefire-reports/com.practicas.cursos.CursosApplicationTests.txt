@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.practicas.cursos.CursosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.545 s - in com.practicas.cursos.CursosApplicationTests

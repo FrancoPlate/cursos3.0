@@ -1,0 +1,11 @@
+com\practicas\cursos\utils\AlumnoRequest.class
+com\practicas\cursos\CursosApplication.class
+com\practicas\cursos\ServletInitializer.class
+com\practicas\cursos\controllers\AuthController.class
+com\practicas\cursos\dao\CursoDao.class
+com\practicas\cursos\models\Alumno.class
+com\practicas\cursos\utils\JWTUtil.class
+com\practicas\cursos\repository\AlumnoRepository.class
+com\practicas\cursos\controllers\CursoController.class
+com\practicas\cursos\models\Profesor.class
+com\practicas\cursos\dao\CursoDaoImp.class
